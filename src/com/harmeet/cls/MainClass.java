@@ -6,7 +6,7 @@ public class MainClass {
 		for (int i = 0; i < 100; i++) {
 			System.out.println("Log("+ i + ")=" + Math.log(i)   );
 		}
-		
+		System.out.println("Latest changes..from eclipse...");
 	}
 
 }
